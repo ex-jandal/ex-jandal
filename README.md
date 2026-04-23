@@ -34,6 +34,7 @@ I am a Computer Science student specializing in **Cybersecurity**. I am passiona
 ### Philosophy
 I believe in continuous learning, simplicity, and building strong foundations. I prefer tools that respect user freedom, transparency, and performance.
 > "Talk is cheap. Show me the code." — Linus Torvalds
-> 
-**All wrongs reversed. Copyleft 2026.**
+>
 [Website](https://me.soltanmeged.workers.dev/) | [Contact](https://me.soltanmeged.workers.dev/contact)
+
+**All wrongs reversed. Copyleft 2026.**
