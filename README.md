@@ -1,23 +1,7 @@
 # Sultan Majed (Abu_Jandal)
 
-```text
-                           ________
-                          | ______o|
-         _______________  ||__---_||
-        |  ___________  | | ______ |
-        | |           | | ||______||
-        | | #         | | |--------|
-        | |           | | |      O |
-        | |           | | |      | |
-        | '-----------' | |      | |
-        |_____________-_| |      | |
-         ___/_______\____ |::::::::|
-        / _______________\-.__
-        /:::::::::':::'::\ .\\\---.
-    jgs/::======::: .:.:::\ \\_)   \
-       `""""""""""""""""""`  '-----'
+![Snake Animation](https://raw.githubusercontent.com/Abu_Jandal/Abu_Jandal/output/github-contribution-grid-snake.svg)
 
-```
 ### About Me
 I am a Computer Science student specializing in **Cybersecurity**. I am passionate about low-level systems, networking, and open-source software. I focus on understanding how things work under the hood—from memory management to network protocols.
  * **Major:** Cybersecurity
