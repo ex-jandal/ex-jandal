@@ -37,7 +37,7 @@ jobs:
           npx generate-snake-animation@3 \
             --forgejo_user codeberg.org/ex-jandal \
             --output "dist/codeberg-snake.svg?color_snake=#fe8019&color_dots=#1d2021,#a89984,#8ec07c,#b8bb26,#fabd2f";
-            npx generate-snake-animation@3 \
+          npx generate-snake-animation@3 \
             --forgejo_user codeberg.org/ex-jandal \
             --output "dist/codeberg-snake-dark.svg?color_snake=#fe8019&color_dots=#1d2021,#a89984,#8ec07c,#b8bb26,#fabd2f"
             
