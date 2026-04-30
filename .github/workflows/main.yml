@@ -29,17 +29,18 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#fe8019&color_dots=#1d2021,#a89984,#8ec07c,#b8bb26,#fabd2f
-            dist/github-snake-dark.svg?color_snake=#fe8019&color_dots=#1d2021,#a89984,#8ec07c,#b8bb26,#fabd2f
+            dist/github-snake.svg?color_snake=#8ec07c&color_dots=#1d2021,#3c3836,#504945,#689d6a,#8ec07c
+            dist/github-snake-dark.svg?color_snake=#8ec07c&color_dots=#1d2021,#3c3836,#504945,#689d6a,#8ec07c
 
-      - name: generate codeberg-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate codeberg-snake.svg
+        uses: platane/snk/forgejo@v3
         with:
-          forgejo_user: codeberg.org/ex-jandal
+          forgejo_instance: codeberg.org
+          forgejo_user_name: ex-jandal
           outputs: |
-            dist/codeberg-snake.svg?palette=codeberg
-            dist/codeberg-snake-dark.svg?palette=codeberg-dark
-      
+            dist/codeberg-snake.svg?color_snake=#fe8019&color_dots=#1d2021,#3c3836,#504945,#d79921,#fe8019
+            dist/codeberg-snake-dark.svg?color_snake=#fe8019&color_dots=#1d2021,#3c3836,#504945,#d79921,#fe8019
+
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
