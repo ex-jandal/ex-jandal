@@ -1,6 +1,6 @@
 # Sultan Majed (Abu_Jandal)
 
-![Snake Animation](https://raw.githubusercontent.com/ex-jandal/ex-jandal/output/github-snake-dark.svg)
+![Snake Animation](https://cdn.jsdelivr.net/gh/ex-jandal/ex-jandal@output/github-snake-dark.svg)
 
 ### About Me
 I am a Computer Science student specializing in **Cybersecurity**. I am passionate about low-level systems, networking, and open-source software. I focus on understanding how things work under the hood—from memory management to network protocols.
